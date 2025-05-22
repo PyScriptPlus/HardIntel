@@ -4,6 +4,8 @@ int main() {
 
     PRINT("Coded By MamaD");
 
+    printf("==========================================================\n");
+
     operating();
 
     // Graphic: 
