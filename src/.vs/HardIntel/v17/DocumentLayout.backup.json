@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|solutionrelative:operating.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1477B1-2D6B-3D30-30DB-4C2E34E04889}|HardIntel.vcxproj|solutionrelative:operating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operating.h",
+              "DocumentMoniker": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.h",
+              "RelativeDocumentMoniker": "operating.h",
+              "ToolTip": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.h",
+              "RelativeToolTip": "operating.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T13:28:28.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "operating.c",
+              "DocumentMoniker": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.c",
+              "RelativeDocumentMoniker": "operating.c",
+              "ToolTip": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\operating.c",
+              "RelativeToolTip": "operating.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T13:27:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\nzdd\\Desktop\\HardIntel\\src\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-28T13:27:08.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
